@@ -10,7 +10,7 @@ Criei este currículo através de código para ter total controle sobre o design
 
 ## 🛠️ Tecnologias Utilizadas (Neste Repositório)
 
-- **HTML5** (Estrutura semântica e acessível)
+- **HTML5** (Estrutura semântica e acessível) 
 - **CSS3** (Flexbox, Grid, Media Queries e customização avançada com `@media print`)
  
 ## ✨ Funcionalidades e Diferenciais  
