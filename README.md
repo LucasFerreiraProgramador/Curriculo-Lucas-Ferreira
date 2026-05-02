@@ -23,7 +23,7 @@ Criei este currículo através de código para ter total controle sobre o design
    ## 👨‍💻 Autor
 
 - [Lucas Ferreira](https://lucas.ferreiradev.com/)
-- [GitHub](https://github.com/LucasFerreiraProgramador)
+- [GitHub](https://github.com/LucasFerreiraProgramador)                                                                                  
 - [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
 
 ## 📄 Licença
